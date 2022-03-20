@@ -1,0 +1,2 @@
+# FantasmaBotV2
+wsp
